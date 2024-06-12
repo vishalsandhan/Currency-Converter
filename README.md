@@ -44,7 +44,8 @@ To run this project, you need a web browser and a code editor.
 
 - `index.html` - The main HTML file that contains the structure of the web page.
 - `style.css` - The CSS file that contains the styling for the web page.
-- `script.js` - The JavaScript file that contains the logic for currency conversion and API interactions.
+- `app.js` - The JavaScript file that contains the logic for currency conversion and API interactions.
+- `code.js` - The JavaScript file that contains the object which stores the Country code and Currency in a key value pair.
 
 ### Usage
 
